@@ -1,3 +1,3 @@
 #!/bin/sh
 
-./configure --prefix=/space/projects/nginx-exp/
+./configure --prefix=/space/projects/nginx-exp/build/
