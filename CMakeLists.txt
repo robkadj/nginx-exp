@@ -221,4 +221,5 @@ add_executable(nginx_1_22_1
         src/stream/ngx_stream_upstream_round_robin.c
         src/stream/ngx_stream_upstream_zone_module.c
         src/stream/ngx_stream_variables.c
-        src/stream/ngx_stream_write_filter_module.c)
+        src/stream/ngx_stream_write_filter_module.c
+        nginx-hello-world-module/ngx_http_hello_world_module.c)
